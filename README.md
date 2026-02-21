@@ -104,7 +104,7 @@ This project is a single HTML file and can be deployed anywhere static files are
 
 ## 👨‍💻 Developer
 
-Made by **Tanjim Khan**
+Made by **Tanjim Khan & Claude**
 
 ---
 
